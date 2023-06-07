@@ -1,11 +1,31 @@
+@font-face {
+    font-weight: 400; /* normal */
+    font-family: Montserrat;
+    src: url("../../public/assets/fonts/Montserrat-Italic-VariableFont_wght.ttf");
+}
+
+@font-face {
+    font-weight: 700; /* bold */
+    font-family: Montserrat;
+    src: url("../../public/assets/fonts/Montserrat-VariableFont_wght.ttf");
+}
+
 .App {
     --header_height: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 70px 20px 134px;
+    font-family: Montserrat;
 }
 
 .hw {
-
+    padding: 20px;
+    border-top: 1px solid darkblue;
+    border-bottom: 1px solid darkblue;    
 }
 
 .hwTitle {
-
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
 }

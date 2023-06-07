@@ -3,15 +3,20 @@
 }
 
 .friendImageAndText {
-
+    display: flex;
+    margin-top: 20px;
 }
 
 .friendImageAndText img {
-
+    height: 48px;
+    margin: 10px;
 }
 
 .friendText {
-
+    color: black;
+    background-color: #F5F7FB;
+    border-radius: 20px;
+    padding: 10px;
 }
 
 .friendText:after {
@@ -27,5 +32,5 @@
 }
 
 .friendTime {
-
+    margin-left: 12px;
 }

@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/advanced-react-typescript/static/css/main.c3b35b89.css",
-    "main.js": "/advanced-react-typescript/static/js/main.534b09d0.js",
+    "main.css": "/advanced-react-typescript/static/css/main.9d1618df.css",
+    "main.js": "/advanced-react-typescript/static/js/main.080350d5.js",
     "static/js/787.66cb4309.chunk.js": "/advanced-react-typescript/static/js/787.66cb4309.chunk.js",
+    "static/media/Montserrat-Italic-VariableFont_wght.ttf": "/advanced-react-typescript/static/media/Montserrat-Italic-VariableFont_wght.ef11b720b9a6cfb9a317.ttf",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/advanced-react-typescript/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
     "static/media/avatar.png": "/advanced-react-typescript/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/advanced-react-typescript/index.html",
-    "main.c3b35b89.css.map": "/advanced-react-typescript/static/css/main.c3b35b89.css.map",
-    "main.534b09d0.js.map": "/advanced-react-typescript/static/js/main.534b09d0.js.map",
+    "main.9d1618df.css.map": "/advanced-react-typescript/static/css/main.9d1618df.css.map",
+    "main.080350d5.js.map": "/advanced-react-typescript/static/js/main.080350d5.js.map",
     "787.66cb4309.chunk.js.map": "/advanced-react-typescript/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c3b35b89.css",
-    "static/js/main.534b09d0.js"
+    "static/css/main.9d1618df.css",
+    "static/js/main.080350d5.js"
   ]
 }
